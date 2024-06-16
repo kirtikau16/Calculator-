@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: #151516;
     background-image: url(bgimg.jpg);
     background-position: fixed;
     background-position:0%;
